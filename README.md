@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![My Project](![image](https://github.com/user-attachments/assets/664d41a9-f119-4ade-af34-6ede75604205)
 <!--
 **Vladislav-ing/Vladislav-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
