@@ -1,4 +1,5 @@
-![My Project](![image](https://github.com/user-attachments/assets/664d41a9-f119-4ade-af34-6ede75604205)
+(![image](![image](https://github.com/user-attachments/assets/94618bd2-449c-4d3c-8ae1-25552639ab28)
+
 <!--
 **Vladislav-ing/Vladislav-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
