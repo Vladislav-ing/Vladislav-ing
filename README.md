@@ -16,7 +16,7 @@ Happy to see you here🕺
  
 
 # Contact with me
-![Telegram](https://img.shields.io/badge/Telegram-%40YourUsername-%230077b5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vhlinkos_me)
+[![Telegram](https://img.shields.io/badge/Telegram-%40YourUsername-%230077b5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vhlinkos_me)
 
 
 
