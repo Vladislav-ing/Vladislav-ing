@@ -1,4 +1,4 @@
-(![image](![image](https://github.com/user-attachments/assets/94618bd2-449c-4d3c-8ae1-25552639ab28)
+![CYBERMAP](https://i.pinimg.com/originals/7b/2c/ce/7b2cce4cc35020a5da4729270300b175.gif)
 
 <!--
 **Vladislav-ing/Vladislav-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
