@@ -1,16 +1,19 @@
 ![CYBERMAP](https://i.pinimg.com/originals/7b/2c/ce/7b2cce4cc35020a5da4729270300b175.gif)
 
-<!--
-**Vladislav-ing/Vladislav-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me 👨‍💻
+I've been studying software development, new technologies and their ways of application for over 2 years. 💻
+In essence, I haven’t been focusing on development for too long, but I believe that one day I'll be able to make life a little more convenient, not just for myself. I love video games and tennis. 🛠️
+Happy to see you here🕺
 
-Here are some ideas to get you started:
+# Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+* ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
+
+
+
