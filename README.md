@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/7b/2c/ce/7b2cce4cc35020a5da4729270300b175.gif" width="300" height="300" alt="CYBERMAP">
+<img src="https://i.pinimg.com/originals/7b/2c/ce/7b2cce4cc35020a5da4729270300b175.gif" width="250" height="300" alt="CYBERMAP">
 
 # About me 👨‍💻
 I've been studying software development, new technologies and their ways of application for over 2 years. 💻
